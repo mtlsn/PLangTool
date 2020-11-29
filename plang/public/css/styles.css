@@ -1,0 +1,41 @@
+header {
+    height: 7em;
+}
+
+#editorjs {
+    background: beige;
+    
+    margin:0 auto;
+}
+
+.center{
+    width:800px;
+    margin:0 2em;
+}
+
+a.btn{
+    display: inline-block;
+    color: white;
+    padding: 1em ;
+    background-color:darkcyan;
+}
+
+div.actions{
+    margin-top: 1em;;
+}
+
+div.output{
+    margin:1em;
+    padding: 1em;
+    background-color: rgb(123, 128, 128);
+}
+
+.editor_wrapper{
+    width:800px;
+}
+
+.editor_sidebar{
+    padding: 0 2em;
+    margin: 0 1em;
+    background-color: rgb(209, 228, 226);
+}
