@@ -1,4 +1,4 @@
-# PLangTool
+# PLangTool - Easy Lingo
 
 api/  -  python backend
 
